@@ -198,3 +198,6 @@ body{
   height: 10px;
   left: 256px;
 }
+.hidden{
+    display: none;
+}

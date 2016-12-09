@@ -25,21 +25,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="api.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.53243846" vertical-offset="204" max-vertical-offset="2431">
-              <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-              <folding />
+            <state vertical-scroll-proportion="-26.538462" vertical-offset="109" max-vertical-offset="1411">
+              <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+              <folding>
+                <marker date="1481296475702" expanded="true" signature="126:147" placeholder="SELECT * FRO..." />
+                <marker date="1481296475702" expanded="true" signature="227:248" placeholder="SELECT * FRO..." />
+                <marker date="1481296475702" expanded="true" signature="423:448" placeholder="SELECT genre..." />
+                <marker date="1481296475702" expanded="true" signature="615:643" placeholder="SELECT * FRO..." />
+                <marker date="1481296475702" expanded="true" signature="615:643" placeholder="SELECT * FRO..." />
+                <marker date="1481296475702" expanded="true" signature="615:643" placeholder="SELECT * FRO..." />
+                <marker date="1481296475702" expanded="true" signature="615:652" placeholder="SELECT * FRO..." />
+                <marker date="1481296475702" expanded="true" signature="615:654" placeholder="SELECT * FRO..." />
+                <marker date="1481296475702" expanded="true" signature="615:678" placeholder="SELECT * FRO..." />
+                <marker date="1481296475702" expanded="true" signature="615:680" placeholder="SELECT * FRO..." />
+                <marker date="1481296475702" expanded="true" signature="944:992" placeholder="..." />
+                <marker date="1481296475702" expanded="true" signature="944:993" placeholder="..." />
+                <marker date="1481296475702" expanded="true" signature="944:993" placeholder="..." />
+                <marker date="1481296475702" expanded="true" signature="944:1028" placeholder="..." />
+                <marker date="1481296475702" expanded="true" signature="944:1086" placeholder="..." />
+                <marker date="1481296475702" expanded="true" signature="944:1424" placeholder="..." />
+                <marker date="1481296475702" expanded="true" signature="1604:2073" placeholder="..." />
+                <marker date="1481296475702" expanded="true" signature="2485:2631" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="2176">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            <state vertical-scroll-proportion="1.1711409" vertical-offset="58" max-vertical-offset="1513">
+              <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+              <folding>
+                <element signature="tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_scripts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main_scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+              <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -57,8 +88,11 @@
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/README.txt" />
-        <option value="$PROJECT_DIR$/main.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/main_scripts.js" />
+        <option value="$PROJECT_DIR$/css/main_style.css" />
+        <option value="$PROJECT_DIR$/api.php" />
+        <option value="$PROJECT_DIR$/main.html" />
       </list>
     </option>
   </component>
@@ -114,12 +148,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aksenovwebcourse16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aksenovwebcourse16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -161,7 +211,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -202,7 +252,9 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -222,19 +274,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="2176">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.7606264" vertical-offset="0" max-vertical-offset="2431">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/main_style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53243846" vertical-offset="204" max-vertical-offset="2431">
-          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.96304345" vertical-offset="2531" max-vertical-offset="3536">
+          <caret line="201" column="18" selection-start-line="201" selection-start-column="18" selection-end-line="201" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.538462" vertical-offset="109" max-vertical-offset="1411">
+          <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+          <folding>
+            <marker date="1481296475702" expanded="true" signature="126:147" placeholder="SELECT * FRO..." />
+            <marker date="1481296475702" expanded="true" signature="227:248" placeholder="SELECT * FRO..." />
+            <marker date="1481296475702" expanded="true" signature="423:448" placeholder="SELECT genre..." />
+            <marker date="1481296475702" expanded="true" signature="615:643" placeholder="SELECT * FRO..." />
+            <marker date="1481296475702" expanded="true" signature="615:643" placeholder="SELECT * FRO..." />
+            <marker date="1481296475702" expanded="true" signature="615:643" placeholder="SELECT * FRO..." />
+            <marker date="1481296475702" expanded="true" signature="615:652" placeholder="SELECT * FRO..." />
+            <marker date="1481296475702" expanded="true" signature="615:654" placeholder="SELECT * FRO..." />
+            <marker date="1481296475702" expanded="true" signature="615:678" placeholder="SELECT * FRO..." />
+            <marker date="1481296475702" expanded="true" signature="615:680" placeholder="SELECT * FRO..." />
+            <marker date="1481296475702" expanded="true" signature="944:992" placeholder="..." />
+            <marker date="1481296475702" expanded="true" signature="944:993" placeholder="..." />
+            <marker date="1481296475702" expanded="true" signature="944:993" placeholder="..." />
+            <marker date="1481296475702" expanded="true" signature="944:1028" placeholder="..." />
+            <marker date="1481296475702" expanded="true" signature="944:1086" placeholder="..." />
+            <marker date="1481296475702" expanded="true" signature="944:1424" placeholder="..." />
+            <marker date="1481296475702" expanded="true" signature="1604:2073" placeholder="..." />
+            <marker date="1481296475702" expanded="true" signature="2485:2631" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1711409" vertical-offset="58" max-vertical-offset="1513">
+          <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+          <folding>
+            <element signature="tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
